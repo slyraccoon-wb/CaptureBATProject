@@ -6,6 +6,7 @@
 
 int main()
 {
+	// Added initial testing comment to file
     return 0;
 }
 
