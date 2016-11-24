@@ -7,6 +7,7 @@
 int main()
 {
 	// Added initial testing comment to file
+	// Second testing commit
     return 0;
 }
 
